@@ -1,6 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: CM Varisty Latin
+description: A starter website for Latin 4: Latin Literature at CM
 theme: just-the-docs
+
+footer_content: "All material is taken, with gratitude, from The Latin Library as well as my own work, available under the Creative Commons Attribution Share-Alike license <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0 <img height=\"15\" width=\"80\" src=\"https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-sa.png\" /></a>"
+
 
 url: https://just-the-docs.github.io
 
