@@ -22,7 +22,7 @@ In scenes that we skipped,  Aeneas is visited by the ghost of Hector (ooooo, spo
 
 addunt se socios Rhipeus et maximus armis
 
-Epytus, oblati per lunam, Hypanisque Dymasque               **340**
+Epytus, oblati per lunam, Hypanisque Dymasque                 **340**
 
 et lateri adglomerant nostro, iuvenisque Coroebus
 
