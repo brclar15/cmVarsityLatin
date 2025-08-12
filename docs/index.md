@@ -6,8 +6,7 @@ nav_order: 0
 has_children: true
 ---
 
-# Catholic Memorial
-## Latin 4: Latin Literature
+# Catholic Memorial Latin 4: Latin Literature
 ## Cities Under Siege
 
 
