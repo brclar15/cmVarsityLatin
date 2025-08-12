@@ -9,4 +9,4 @@ has_children: true
 # Julius Caesar's *De Bello Gallico* 
 
 
-This page will house our readings from Caesar's DBG
+This page will house our readings from Caesar's _DBG_
