@@ -5,9 +5,8 @@ nav_order: 3
 parent: Vergil
 ---
 
-# Intro and Design of the Horse
+# Corobeus & Cassandra
 
-- [Dickinson Commentary](https://dcc.dickinson.edu/vergil-aeneid/vergil-aeneid-ii-1-20)
 
 ## Context
 
@@ -19,50 +18,97 @@ In scenes that we skipped,  Aeneas is visited by the ghost of Hector (ooooo, spo
 
 ## Introducing Corobeus
 
+- [Dickinson Commentary](https://dcc.dickinson.edu/vergil-aeneid/vergil-aeneid-ii-318-346)
+
 addunt se socios Rhipeus et maximus armis
+
 Epytus, oblati per lunam, Hypanisque Dymasque               **340**
+
 et lateri adglomerant nostro, iuvenisque Coroebus
+
 Mygdonides—illis ad Troiam forte diebus
+
 venerat insano Cassandrae incensus amore
+
 et gener auxilium Priamo Phrygibusque ferebat,
+
 infelix qui non sponsae praecepta furentis               **345**
+
 audierit!
 
 ## The Fate of Cassandra
 
+- [Dickinson Commentary](https://dcc.dickinson.edu/vergil-aeneid/vergil-aeneid-ii-402-437)
+
+
 Heu nihil inuitis fas quemquam fidere divis!
+
 ecce trahebatur passis Priameia virgo
+
 crinibus a templo Cassandra adytisque Minervae
+
 ad caelum tendens ardentia lumina frustra,               **405**
+
 lumina, nam teneras arcebant vincula palmas.
+
 non tulit hanc speciem furiata mente Coroebus
+
 et sese medium iniecit periturus in agmen;
+
 consequimur cuncti et densis incurrimus armis.
+
 hic primum ex alto delubri culmine telis               **410**
+
 nostrorum obruimur oriturque miserrima caedes
+
 armorum facie et Graiarum errore iubarum.
+
 tum Danai gemitu atque ereptae virginis ira
+
 undique collecti invadunt, acerrimus Aiax
+
 et gemini Atridae Dolopumque exercitus omnis:               **415**
+
 adversi rupto ceu quondam turbine venti
+
 confligunt, Zephyrusque Notusque et laetus Eois
+
 Eurus equis; stridunt silvae saevitque tridenti
+
 spumeus atque imo Nereus ciet aequora fundo.
+
 illi etiam, si quos obscura nocte per umbram               **420**
+
 fudimus insidiis totaque agitavimus urbe,
+
 apparent; primi clipeos mentitaque tela
+
 agnoscunt atque ora sono discordia signant.
+
 ilicet obruimur numero, primusque Coroebus
+
 Penelei dextra divae armipotentis ad aram               **425**
+
 procumbit; cadit et Rhipeus, iustissimus unus
+
 qui fuit in Teucris et servantissimus aequi
+
 (dis aliter visum); pereunt Hypanisque Dymasque
+
 confixi a sociis; nec te tua plurima, Panthu,
+
 labentem pietas nec Apollinis infula texit.               **430**
+
 Iliaci cineres et flamma extrema meorum,
+
 testor, in occasu vestro nec tela nec ullas
+
 vitavisse vices Danaum et, si fata fuissent
+
 ut caderem, meruisse manu. divellimur inde,
+
 Iphitus et Pelias mecum (quorum Iphitus aevo               **435**
+
 iam gravior, Pelias et vulnere tardus Ulixi),
+
 protinus ad sedes Priami clamore vocati.
