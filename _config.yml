@@ -1,10 +1,7 @@
 title: CM Varsity Latin
-description: A website for CM's Latin 4: Latin Literature class
+description: A website for CM's Latin 4 Latin Literature class
 theme: just-the-docs
 
-plugins:
-  - jekyll-remote-theme # add this if you use remote_theme
-remote_theme: just-the-docs/just-the-docs
 
 footer_content: "All material is taken, with gratitude, from The Latin Library as well as my own work, available under the Creative Commons Attribution Share-Alike license <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">CC BY-SA 4.0 <img height=\"15\" width=\"80\" src=\"https://mirrors.creativecommons.org/presskit/buttons/80x15/png/by-sa.png\" /></a>"
 
