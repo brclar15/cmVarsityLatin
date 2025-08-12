@@ -47,8 +47,6 @@ nos delubra deum miseri, quibus ultimus esset
 
 ille dies, festa velamus fronde per urbem.
 
-----------
-
 Vertitur interea caelum et ruit Oceano nox               **250**
 
 involvens umbra magna terramque polumque
