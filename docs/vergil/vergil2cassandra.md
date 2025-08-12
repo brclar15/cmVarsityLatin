@@ -10,7 +10,7 @@ parent: Vergil
 
 ## Context
 
-In scenes that we skipped,  Aeneas is visited by the ghost of Hector (ooooo, spooky!!) who urges him to flee and entrusts the Penates, the household gods of Troy, to him. Then, Aeneas gets swept up in the chaos of battle. He finds some other Trojans, and they put on the armor of fallen Greeks to help them blend in as they pass through the fighting. Now Aeneas and his men are in front of the temple of Minerva and are witness to the fate of Cassandra, daughter of Priam. Among this band of warriors is Coroebus, a suitor of Cassandra
+In scenes that we skipped,  Aeneas is visited by the ghost of Hector (ooooo, spooky!!) who urges him to flee and entrusts the Penates, the household gods of Troy, to him. Then, Aeneas gets swept up in the chaos of battle. He finds some other Trojans, and they put on the armor of fallen Greeks to help them blend in as they pass through the fighting. Now Aeneas and his men are in front of the temple of Minerva and are witness to the fate of Cassandra, daughter of Priam. Among this band of warriors is Coroebus, a suitor of Cassandra.
 
 **NOTE** - this passage contains depictions of rape, which is a sensitive topic. Sexual assault is an all too common and brutal practice in war, and Vergil condemns the act by showing the harm and distress that it causes. Please reach out to me if this material is upsetting or concerning for you, for any reason.
 
