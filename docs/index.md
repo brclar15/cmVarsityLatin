@@ -11,7 +11,7 @@ has_children: true
 ## Catholic Memorial
 
 
-This webiste will house resources for our readings this year.
+This webiste will house resources for our readings this year as we explore the theme of sieges (ancient, modern, and cinematic).
 
 ### Helpful Links
 
