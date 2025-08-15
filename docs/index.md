@@ -34,3 +34,7 @@ This webiste will house resources for our readings this year as we explore the t
      - Siege of Troy
 - Ovid's *Metamorphoses*
      - Siege of Troy
+
+## Goals of the Course
+
+The goal of this course is to allow students to engage deeply with a survey of Latin literature, both in prose and poetry. Students will strengthen their grasp not only of Latin grammar and syntax, but also increase their ability to read a Latin text closely. Additionally, we will learn to read with an eye for genre and style, and continue to hone the skill of literary analysis. Through the study of historical and cinematic sieges, students will develop their ability to work with both historical documents and visual media to trace common threads across time, geography, and culture. This course will also cover Roman imperial history through Emperor Constantine. 
