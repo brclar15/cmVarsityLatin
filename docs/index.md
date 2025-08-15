@@ -19,3 +19,18 @@ This webiste will house resources for our readings this year.
      - an incredibly helpful and easy to work with digital dictionary
 - [The Latin Library](https://www.thelatinlibrary.com/)
      - helpful for printing out the text as needed
+
+
+
+### Authors & Texts
+
+- Vulgate Bible
+     - Siege of Jericho
+- Caesar's *De Bello Gallico*
+     - Siege of Alesia
+- Josephus' *De Bello Iudaico*
+     - Siege of Jotapata
+- Vergil's *Aeneid*
+     - Siege of Troy
+- Ovid's *Metamorphoses*
+     - Siege of Troy
