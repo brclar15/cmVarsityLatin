@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Start of Siege of Jotapata
+title: Start of the Siege
 nav_order: 1
 has_children: true
 parent: Josephus
