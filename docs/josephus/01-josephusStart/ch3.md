@@ -2,7 +2,7 @@
 layout: page
 title: Ch. 3
 nav_order: 1
-parent: Start of Siege of Jotapata
+parent: Start of the Siege
 ---
 
 # Ch. 3
