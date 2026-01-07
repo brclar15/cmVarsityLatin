@@ -56,7 +56,7 @@ Vespasianus[^1] autem Jotapatam[^2] excindere cupiens (nam[^3] in eam plurimos h
    
 [^22]: *ultro se etiam in custodiam traderet voluntariam*: *ultro* and *voluntariam* appear to have the same meaning in the phrase  
    
-[^23]: *statim quidem….iussit*: jump to *iussit* for your main verb of this sentence  
+[^23]: *statim quidem….iussit*: jump to *mittit* for your main verb of this sentence  
    
 [^24]: *Placidum*: Placidus is a high-ranking commander under Vespasian mentioned a few times in *De bello Iudaico*  
    
