@@ -7,7 +7,7 @@ parent: Start of the Siege
 
 # Ch. 4
 
-# Title
+# Romans Arrange their Troops
 
 Postero autem die cuncta manu[^1] comitatus ipse[^2] consequitur, et post meridiem usque acto[^3] itinere, ad Jotapatam pervenit : adductoque in Septentrionalem[^4] eius partem exercitu, in quodam tumulo castra ponit, distante[^5] ab oppido stadiis[^6] septem. Consulto autem quam[^7] maxime conspici[^8] ab hostibus affectabat, ut visu attoniti turbarentur. quod[^9] etiam factum est: eosque tantus[^10] continuo stupor invasit, ut muris egredi[^11] nullus auderet. At Romanos tota die ambulando[^12] fatigatos, civitatim statim aggredi piguit[^13]: ob eam causam duplici acie circumdato oppido, tertium extrinsecus agmen equitum posuere[^14], omnes Judaeis exitus obstruentes. Sed ea res illos in salutis desperatione audaciores effecit. quippe[^15] in bello nihil est necessitate pugnacius.
 
