@@ -58,7 +58,7 @@ Vespasianus[^1] autem Jotapatam[^2] excindere cupiens (nam[^3] in eam plurimos h
    
 [^23]: *statim quidem….iussit*: jump to *mittit* for your main verb of this sentence  
    
-[^24]: *Placidum*: Placidus is a high-ranking commander under Vespasian mentioned a few times in *De bello Iudaico*  
+[^24]: *Placidum*: Placidus is a high-ranking commander under Vespasian, mentioned a few times in *De bello Iudaico*  
    
 [^25]: *decadarcham Ebutium:* a *decadarcha,* or a decurion, was a Roman cavalry commander. Ebutius is not otherwise known outside of this passage 
    
