@@ -7,7 +7,7 @@ parent: Start of the Siege
 
 # Ch. 8
 
-# Title
+# Vespasian Digs In
 
 Vespasianus autem et[^1] cum natura loci simul certandum[^2] putans, et[^1] cum audacia Judaeorum, incipere obsidionem acriter statuit[^3]: advocatisque[^4] rectoribus sibi subditis, de aggressu deliberabat. Cumque aggerem[^5] fieri[^6] placuisset, qua[^7] parte murus facilis erat accessui, totum ad[^8] comparandam materiam misit exercitum : oppidoque[^9] propinquis montibus excisis, magnaque vi lignorum et lapidum comparata, cratibusque[^10] ad evitanda iacula desuper missa per vallos[^11] dispositis, his[^12] protecti aggerem construebant. nulla autem noxa , vel minima telorum erat, quae de muro iacerentur. His[^13] autem alii terram ex propinquis tumulis eruentes, sine intermissione suppeditabant: cunctisque[^14] trifariam distributis, nullus erat otiosus. At Judaei[^15] super[^16] eorum tegmina saxa ingentia et omne[^17] telorum genus curabant immittere, quae[^18] licet minime penetrarent, magnos tamen crepitus[^19] dabant, et horribile impedimentum erat operantibus[^20].
 
