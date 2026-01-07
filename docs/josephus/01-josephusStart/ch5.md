@@ -7,7 +7,7 @@ parent: Start of the Siege
 
 # Ch. 5
 
-# Title
+# The Jews Fight Back
 
 Itaque postridie impetu in muros facto, Judaei primo quidem locis suis manentes, Romanis[^1] castra ante muros habentibus resistebant. postea[^2] vero[^3] quam Vespasianus[^4] et sagittarios et funditores, omnemque iaculatorum multitudinem[^5] adhibitam, missilibus[^6] in eos[^7] permisit uti, atque ipse cum peditibus in adversum collem, unde murus expugnabilis erat, niti[^8] coepit, tunc civitati[^9] metuens Josephus, et cum eo cuncta[^10] Judaeorum prosiluit multitudo[^11] : omnesque in Romanos pariter irruentes, procul a muris eos deterruere[^12], multa[^13] manu simul et audacia patrando facinora. Neque minora tamen patiebantur[^14] quam faciebant. nam[^15] quantum[^16] ipsos salutis desperatio, tantum[^16] pudor incendebat Romanos. et[^17] hos quidem peritia cum fortitudine, illos autem duce[^18] iracundia ferocitas armabat. Denique cum tota die pugnatum[^19] fuisset, praelium nox[^20] diremit: in quo Romanorum plurimis sauciatis, tredecim interfecti sunt : Judaeorum autem cum sexcenti essent vulnerati, septem et decem ceciderunt.
 
