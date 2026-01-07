@@ -22,7 +22,7 @@ Vespasianus[^1] autem Jotapatam[^2] excindere cupiens (nam[^3] in eam plurimos h
 
 [^5]: *Receptaculum:* this refers to a place of refuge, because it is the most fortified town in the nearby area
 
-[^6]: *qui montanum iter coaequarent*: **relative clause of purpose**, noted by the subjunctive verb *coaequarent. He sent ahead foot soldiers who would make level the mountain road so that they would make level the mountain road*
+[^6]: *qui montanum iter coaequarent*: **relative clause of purpose**, noted by the **subjunctive verb** *coaequarent. He sent ahead foot soldiers who would make level the mountain road* or, to take it another way, ***so that** they would make level the mountain road*
 
 [^7]: *saxis asperum, ac peditibus quoque difficile*: both adjectival phrases describe the neuter *iter* in the previous clause
 
