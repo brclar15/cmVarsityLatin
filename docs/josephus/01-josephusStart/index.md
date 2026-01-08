@@ -8,4 +8,4 @@ parent: Josephus
 
 # Start of Siege of Jotapata
 
-This subsection covers the start of the siege of Jotapata
+This subsection covers the first half of the siege of Jotapata
