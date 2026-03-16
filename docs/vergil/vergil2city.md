@@ -55,7 +55,7 @@ Myrmidonumque dolos; fusi per moenia Teucri
 
 conticuere; sopor fessos complectitur artus.
 
-et iam Argiua phalanx instructis navibus ibat
+et iam Argiva phalanx instructis navibus ibat
 
 a Tenedo tacitae per amica silentia lunae               **255**
 
