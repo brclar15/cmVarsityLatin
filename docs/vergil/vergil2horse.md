@@ -15,7 +15,7 @@ Conticuere omnes intentique ora tenebant.
 
 Inde toro pater Aeneas sic orsus ab alto: 
 
-Infandum, regina, iubes renovare dolorem,
+"Infandum, regina, iubes renovare dolorem,
 
 Troianas ut opes et lamentabile regnum
 
