@@ -49,7 +49,7 @@ huc delecta virum sortiti corpora furtim
 
 includunt caeco lateri penitusque cavernas
 
-ingentis uterumque armato milite complent.               **20**
+ingentes uterumque armato milite complent.               **20**
 
 est in conspectu Tenedos, notissima fama
 
