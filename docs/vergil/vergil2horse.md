@@ -5,6 +5,8 @@ nav_order: 1
 parent: Vergil
 ---
 
+# _Aeneid_ 2.1 - 2.39
+
 # Intro and Design of the Horse
 
 - [Dickinson Commentary](https://dcc.dickinson.edu/vergil-aeneid/vergil-aeneid-ii-1-20)
