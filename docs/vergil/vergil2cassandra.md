@@ -16,6 +16,9 @@ In scenes that we skipped,  Aeneas is visited by the ghost of Hector (ooooo, spo
 
 -----------------
 
+
+# _Aeneid_ 2.39 - 2.346
+
 ## Introducing Corobeus
 
 - [Dickinson Commentary](https://dcc.dickinson.edu/vergil-aeneid/vergil-aeneid-ii-318-346)
@@ -35,6 +38,10 @@ et gener auxilium Priamo Phrygibusque ferebat,
 infelix qui non sponsae praecepta furentis               **345**
 
 audierit!
+
+
+
+# _Aeneid_ 2.402 - 2.437
 
 ## The Fate of Cassandra
 
