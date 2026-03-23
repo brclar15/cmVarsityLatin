@@ -10,7 +10,18 @@ parent: Vergil
 
 # The Horse Enters the City
 
+
+## Context
+
+In scenes that we skipped, Sinon, a Greek left behind claiming to have been abandoned by the Greeks, encourages the Trojans to take the horse into the city. Additionally, Loacoon, a notable Trojan priest who had previously council them NOT to take to accept this surprise gift from their enemies, is torn apart, along with his sons, by two sea snakes. The Trojans take this as a sign that he was wrong about the horse, and here are seen ushering it into the city. 
+
+
+
 - [Dickinson Commentary](https://dcc.dickinson.edu/vergil-aeneid/vergil-aeneid-ii-234-249)
+
+
+
+
 
 -----------------
 
