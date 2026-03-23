@@ -5,6 +5,9 @@ nav_order: 2
 parent: Vergil
 ---
 
+
+# _Aeneid_ 2.234 - 2.267
+
 # The Horse Enters the City
 
 - [Dickinson Commentary](https://dcc.dickinson.edu/vergil-aeneid/vergil-aeneid-ii-234-249)
