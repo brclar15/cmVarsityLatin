@@ -77,7 +77,7 @@ litora nota petens, flammas cum regia puppis
 
 extulerat, fatisque deum defensus iniquis
 
-inclusos utero Danaos* et pinea furtim                Danaos = Graecos
+inclusos utero Danaos et pinea furtim                
 
 laxat claustra Sinon. illos patefactus ad auras
 
