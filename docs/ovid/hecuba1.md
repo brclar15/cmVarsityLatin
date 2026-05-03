@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hebuca's Transformation
+title: Hebuca - Intro
 nav_order: 1
 parent: Ovid
 ---
