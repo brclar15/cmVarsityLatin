@@ -73,7 +73,7 @@ inque suo vidit figentem lumina[^37] vultu,
 
 -------
 
-##Speech of Polyxena - English
+## Speech of Polyxena - English
 
 - I would have **loved** to read this in Latin, but sadly *tempus fugit!*. So please read it in English instead
 
