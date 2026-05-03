@@ -5,9 +5,13 @@ nav_order: 3
 parent: Ovid
 ---
 
+
 # _Metamorphoses_ 13.481 - 13.575
 
 # The Fate of Hecuba - Transformation
+
+
+
 
 -----------------
 
@@ -39,7 +43,7 @@ plura[^23] quidem, sed et[^24] haec[^23] laniato pectore, dixit:
 
 ## Speech of Hecuba - English
 
-- I would have **loved** to read this in Latin too, but, as we said before, *tempus fugit!*. So please read Hecuba's lament in English instead
+- I would have **loved** to read this in Latin too, but, as we said before, *tempus fugit!*. So please read Hecuba's lament in English instead. Translation taken from [Poetry in Translation](https://www.poetryintranslation.com/PITBR/Latin/Metamorph13.php#anchor_Toc64105844)
 
 ‘Child – since, what else is left me? – your mother’s last grief, Child, you lie there, and I see your wound, that is my wound. Look, you also have your wound, so that I might lose none of my children without bloodshed. Because you were a woman, I thought you safe from the sword: yet, a woman, you have died by the sword: and that same Achilles who has ruined Troy and made me childless, who has destroyed so many of your brothers, has killed you in the same way.
 
