@@ -11,35 +11,35 @@ parent: Ovid
 
 -----------------
 
-Troades excipiunt deploratosque recensent
+Troades[^1] excipiunt[^2] deploratosque recensent
 
-Priamidas et quot dederit domus una cruores,
+Priamidas[^3] et quot dederit[^4] domus una cruores,
 
-teque gemunt, virgo, teque, o modo regia coniunx,
+teque gemunt, virgo, teque, o modo[^5] regia coniunx,
 
-regia dicta parens, Asiae florentis imago,
+regia dicta[^6] parens, Asiae[^7] florentis imago,
 
-nunc etiam praedae mala sors; quam victor Ulixes              **485**
+nunc etiam[^8] praedae mala sors; quam victor[^9] Ulixes              **485**
 
-esse suam nollet, nisi quod tamen Hectora partu
+esse suam nollet[^10], nisi[^11] quod tamen Hectora[^12] partu[^13]
 
-edideras: dominum matri vix repperit Hector!
+edideras: dominum[^14] matri vix repperit Hector!
 
-quae corpus conplexa animae tam fortis inane,
+quae[^15] corpus conplexa animae tam fortis[^16] inane[^17],
 
-quas totiens patriae dederat natisque viroque,
+quas[^18] totiens patriae dederat natisque viroque,
 
-huic quoque dat lacrimas; lacrimas in vulnera fundit              **490**
+huic[^19] quoque dat lacrimas; lacrimas in vulnera fundit              **490**
 
-osculaque ore tegit consuetaque pectora plangit
+osculaque[^20] ore tegit consuetaque[^21] pectora plangit
 
-canitiemque suam concretam sanguine vellens
+canitiemque[^22] suam concretam sanguine vellens
 
-plura quidem, sed et haec laniato pectore, dixit:
+plura[^23] quidem, sed et[^24] haec[^23] laniato pectore, dixit:
 
 ## Speech of Hecuba - English
 
-- I would have **loved** to read this in Latin too, but, as we said before, *tempus fugit!*. So please read it in English instead
+- I would have **loved** to read this in Latin too, but, as we said before, *tempus fugit!*. So please read Hecuba's lament in English instead
 
 ‘Child – since, what else is left me? – your mother’s last grief, Child, you lie there, and I see your wound, that is my wound. Look, you also have your wound, so that I might lose none of my children without bloodshed. Because you were a woman, I thought you safe from the sword: yet, a woman, you have died by the sword: and that same Achilles who has ruined Troy and made me childless, who has destroyed so many of your brothers, has killed you in the same way.
 
@@ -135,4 +135,54 @@ sic omnes, ut et ipsa Iovis coniunxque sororque
 
 eventus Hecaben meruisse negaverit illos.              **575**
 
+
+------------
+
+[^1]: *Troades* : Trojan women
+
+[^2]: *excipiunt* : you need a direct object here. From context, it's clear that it's Polyxena's body, so add in a "her"
+
+[^3]: *Priamidas* : *the children of Priam*
+
+[^4]: *quot dederit* : an **indirect question** after *recensent*, hence the **subjunctive verb**
+
+[^5]: *modo* : *just now, recently*
+
+[^6]: *dicta* : translate as *having been called*, like "*having been said* to be." Probably take this idea with the *o modo regia coniunx* above, too
+
+[^7]: *Asiae florentis imago* : the Greeks and Romans felt that anything east of Greece was Asia, hence the region of Asia Minor
+
+[^8]: *etiam praedae* : **dative**, *even for a captive*. The word *praeda* is usually used for spoils, plunder, booty, but here refers to Hecuba, as she is taken as a war spoil too
+
+[^9]: *victor Ulixes* : remember that it is Odysseus who has won slash been allotted Hecuba in the distrubution of spoils
+
+[^10]: *nollet* : **potential subjunctive**, *he would not have wanted*
+
+[^11]: *nisi quod* : *exept for the fact that*
+
+[^12]: *Hectora* : **Greek accusative**
+
+[^13]: *partu edideras* : *you had given by birth*, meaning "you had given birth to"
+
+[^14]: *dominum matri vix repperit Hector* : 
+
+[^15]: *quae* : refers back to Hecuba
+
+[^16]: *fortis* : for help on what this describes, recall that *-is* 3rd declension adjectives have -*is* in the nominative and the genitive!
+
+[^17]: *inane* : for help on what this describes, recall that *-is* 3rd declension adjectives have *-e* in the neuter nominative and the genitive!
+
+[^18]: *quas* : this refers to the *lacrimas* later on. Latin authors often put the relative clause before the antecedent, defeating the name  **ante**cedent
+
+[^19]: *huic* : *for this one*, meaning Polyxena
+
+[^20]: *osculaque ore tegit* : *she covered her lips (face) with a kiss*
+
+[^21]: *consuetaque pectora plangit* : this is a typical sign of ritual mourning. the adjective *consuetaque* reminds the reader that Hecuba has done much mourning over the course of the war
+
+[^22]: *canitiemque suam concretam sanguine vellens* : this is another typical sign of ritual mourning 
+
+[^23]: *plura, haec* : both neuter, accusative, plural
+
+[^24]: *et* : **adverbial *et*!!**
 
