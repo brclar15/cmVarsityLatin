@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hebuca's Transformation
+title: Hebuca - Speech
 nav_order: 2
 parent: Ovid
 ---
