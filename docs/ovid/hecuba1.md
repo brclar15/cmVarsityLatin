@@ -8,7 +8,7 @@ parent: Ovid
 
 # _Metamorphoses_ 13.404 - 13.428
 
-# Title
+# The Fate of Hecuba - Hecuba Captive
 
 
 ## Context
