@@ -79,6 +79,7 @@ inque suo vidit figentem lumina[^37] vultu,
 
 She said: ‘Now, shed noble blood, nothing prevents you: but sheathe your sword in my throat or in my breast,’ and she uncovered both her throat and her breast, ‘Polyxena, for certain, has no desire to be slave to any man! No god will be appeased by such a rite as this! I only wish my death could be unknown to my mother: my mother weakens and lessens my joy in death, though it is not my dying but her living that is terrible. Now, move away, you, so that if my request is lawful, I may not be hindered in going to the Stygian shades: and take the hands of man from virgin flesh! My free blood will be more acceptable to him, whoever he is, whom you are trying to appease with my murder. If my last words still move any of you (The daughter of Priam asks it, not a prisoner) return my body to my mother without ransom: let her pay for the sad privilege of burying me, not with gold, but with tears! When she could do so, she paid in gold as well’ 
 
+## Back to Latin!
 
 dixerat, at populus lacrimas, quas illa tenebat[^38],
 
