@@ -1,19 +1,17 @@
 ---
 layout: page
-title: Hebuca's Transformation
-nav_order: 1
+title: Hebuca - Transformation
+nav_order: 3
 parent: Ovid
 ---
 
 
 # _Metamorphoses_ 2.234 - 2.267
 
-# The Horse Enters the City
+# Title
 
 
-## Context
 
-Type context here
 
 
 -----------------
