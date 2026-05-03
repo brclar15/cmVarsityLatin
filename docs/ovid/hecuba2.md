@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hebuca - Speech
+title: Hebuca - Loss
 nav_order: 2
 parent: Ovid
 ---
