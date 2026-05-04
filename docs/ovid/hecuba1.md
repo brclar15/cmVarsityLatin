@@ -13,7 +13,7 @@ parent: Ovid
 
 ## Context
 
-Type context here
+This scene takes place after the fall of Troy, directly after the Contest for the Arms of Achilles, where Odysseus was declared the winner over Ajax the Great. All the destruction has settled, and the Greeks have portioned out the spoils to their army, including the Trojan women, who have been taken captive. As we will see, Hecuba has been given to Odysseus as recompense for his vital role in breaking the ten-year long siege.
 
 
 -----------------
