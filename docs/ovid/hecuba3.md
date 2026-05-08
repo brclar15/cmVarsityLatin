@@ -158,11 +158,11 @@ eventus Hecaben meruisse negaverit illos.              **575**
 
 [^8]: *etiam praedae* : **dative**, *even for a captive*. The word *praeda* is usually used for spoils, plunder, booty, but here refers to Hecuba, as she is taken as a war spoil too
 
-[^9]: *victor Ulixes* : remember that it is Odysseus who has won slash been allotted Hecuba in the distrubution of spoils
+[^9]: *victor Ulixes* : remember that it is Odysseus who has won slash been allotted Hecuba in the distribution of spoils
 
 [^10]: *nollet* : **potential subjunctive**, *he would not have wanted*
 
-[^11]: *nisi quod* : *exept for the fact that*
+[^11]: *nisi quod* : *except for the fact that*
 
 [^12]: *Hectora* : **Greek accusative**
 
