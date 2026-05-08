@@ -128,7 +128,7 @@ cum caderet, castique decus[^44] servare pudoris.              **480**
 
 [^14]: *tamquam* : *as if*, note *possent* as a **subjunctive verb**, showing us that this action did not/could not happen
 
-[^15]: *exanimem* : as we've seen, take this as your direct object, adding in a "him being...."
+[^15]: *exanimem* : as we've seen a few times, this adjective describes someone who is not mentioned, namely Polydorus. We know it's accusative, so take this as your direct object, adding in a "him being...."
 
 [^16]: *Atrides* : the son of [Atreus](https://en.wikipedia.org/wiki/Atreus), here meaning [Agamomemnon](https://en.wikipedia.org/wiki/Agamemnon). It can also be used for his brother [Menelaus](https://en.wikipedia.org/wiki/Menelaus), or for both of them in the plural
 
