@@ -124,7 +124,7 @@ cum caderet, castique decus[^44] servare pudoris.              **480**
 
 [^12]: *iuguloque* : **compound verbs**, like *demisit* often take a **dative of reference**, "he sent it down *on his throat*"
 
-[^13]: *sui alumni* : "ward/charge" works the best here, since Polymestor was supposed to watch over Polydorus and riase him
+[^13]: *sui alumni* : "ward/charge" works the best here, since Polymestor was supposed to watch over Polydorus and raise him
 
 [^14]: *tamquam* : *as if*, note *possent* as a **subjunctive verb**, showing us that this action did not/could not happen
 
