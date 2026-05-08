@@ -127,7 +127,7 @@ cum caderet, castique decus[^45] servare pudoris.              **480**
 
 [^14]: *sui alumni* : "ward/charge" works the best here, since Polymestor was supposed to watch over Polydorus and raise him
 
-[^15]: *tamquam* : *as if*, note *possent* as a **subjunctive verb**, showing us that this action did not/could not happen
+[^15]: *tamquam....possent* : *as if*, note *possent* as a **subjunctive verb**, showing us that this action did not/could not happen. The verb *tollo, tollere* is "remove" here, not "to lift up"
 
 [^16]: *exanimem* : as we've seen a few times, this adjective describes someone who is not mentioned, namely Polydorus. We know it's accusative, so take this as your direct object, adding in a "him being...."
 
