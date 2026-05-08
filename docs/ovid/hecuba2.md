@@ -15,61 +15,61 @@ parent: Ovid
 
 
 
-Est[^1], ubi Troia fuit, Phrygiae[^2] contraria tellus
+Est[^1], ubi Troia fuit, Phrygiae[^2] contraria tellus[^3]
 
-Bistoniis[^3] habitata viris: Polymestoris[^4] illic              **430**
+Bistoniis[^4] habitata viris: Polymestoris[^5] illic              **430**
 
-regia dives erat, cui te commisit alendum[^5]
+regia dives erat, cui te commisit alendum[^6]
 
-clam, Polydore[^6], pater Phrygiisque[^2] removit ab armis,
+clam, Polydore[^7], pater Phrygiisque[^2] removit ab armis,
 
-consilium[^7] sapiens, sceleris nisi praemia[^8] magnas
+consilium[^8] sapiens, sceleris nisi praemia[^9] magnas
 
-adiecisset opes, animi inritamen[^9] avari.
+adiecisset opes, animi inritamen[^10] avari.
 
-ut[^10] cecidit fortuna Phrygum[^2], capit inpius ensem              **435**
+ut[^11] cecidit fortuna Phrygum[^2], capit inpius ensem              **435**
 
-rex Thracum[^11] iuguloque[^12] sui demisit alumni[^13]
+rex Thracum[^12] iuguloque[^13] sui demisit alumni[^14]
 
-et, tamquam[^14] tolli cum corpore crimina possent,
+et, tamquam[^15] tolli cum corpore crimina possent,
 
-exanimem[^15] scopulo subiectas misit in undas.
+exanimem[^16] scopulo subiectas misit in undas.
 
-Litore Threicio classem religarat Atrides[^16],
+Litore Threicio classem religarat Atrides[^17],
 
-dum[^17] mare pacatum, dum ventus amicior esset:               **440**
+dum[^18] mare pacatum, dum ventus amicior esset:               **440**
 
-hic subito, quantus[^18], cum viveret, esse solebat,
+hic subito, quantus[^19], cum viveret, esse solebat,
 
-exit humo late rupta similisque[^19] minanti
+exit humo late rupta similisque[^20] minanti
 
-temporis[^20] illius vultum referebat Achilles[^21],
+temporis[^21] illius vultum referebat Achilles[^22],
 
-quo[^20] ferus iniustum petiit Agamemnona[^22] ferro[^23]
+quo[^21] ferus iniustum petiit Agamemnona[^23] ferro[^24]
 
-'inmemores[^24]' que 'mei disceditis,' inquit 'Achivi[^25],              **445**
+'inmemores[^25]' que 'mei disceditis,' inquit 'Achivi[^26],              **445**
 
-obrutaque est mecum virtutis gratia[^26] nostrae!
+obrutaque est mecum virtutis gratia[^27] nostrae!
 
-ne facite! utque meum non sit[^27] sine honore sepulcrum,
+ne facite! utque meum non sit[^28] sine honore sepulcrum,
 
-placet Achilleos[^28] mactata Polyxena[^29] manes!'
+placet Achilleos[^29] mactata Polyxena[^30] manes!'
 
-dixit, et inmiti sociis parentibus[^30] umbrae,
+dixit, et inmiti sociis parentibus[^31] umbrae,
 
-rapta sinu matris, quam iam prope[^31] sola fovebat,              **450**
+rapta sinu matris, quam iam prope[^32] sola fovebat,              **450**
 
-fortis et infelix et plus[^32] quam femina virgo
+fortis et infelix et plus[^33] quam femina virgo
 
-ducitur ad tumulum diroque fit[^33] hostia busto.
+ducitur ad tumulum diroque fit[^34] hostia busto.
 
-quae memor[^34] ipsa sui postquam crudelibus aris
+quae memor[^35] ipsa sui postquam crudelibus aris
 
-admota est sensitque sibi fera[^35] sacra parari,
+admota est sensitque sibi fera[^36] sacra parari,
 
-utque[^36] Neoptolemum stantem ferrumque tenentem;              **455**
+utque[^37] Neoptolemum stantem ferrumque tenentem;              **455**
 
-inque suo vidit figentem lumina[^37] vultu,
+inque suo vidit figentem lumina[^38] vultu,
 
 -------
 
@@ -81,19 +81,19 @@ She said: ‘Now, shed noble blood, nothing prevents you: but sheathe your sword
 
 ## Back to Latin!
 
-dixerat, at populus lacrimas, quas illa tenebat[^38],
+dixerat, at populus lacrimas, quas illa tenebat[^39],
 
-non tenet[^38]; ipse etiam flens invitusque sacerdos              **475**
+non tenet[^39]; ipse etiam flens invitusque sacerdos              **475**
 
-praebita coniecto rupit praecordia[^39] ferro.
+praebita coniecto rupit praecordia[^40] ferro.
 
-illa super terram defecto[^40] poplite labens
+illa super terram defecto[^41] poplite labens
 
-pertulit[^41] intrepidos ad fata novissima vultus[^42];
+pertulit[^42] intrepidos ad fata novissima vultus[^43];
 
-tunc quoque cura[^43] fuit partes velare tegendas,
+tunc quoque cura[^44] fuit partes velare tegendas,
 
-cum caderet, castique decus[^44] servare pudoris.              **480**
+cum caderet, castique decus[^45] servare pudoris.              **480**
 
 
 -------
@@ -103,89 +103,90 @@ cum caderet, castique decus[^44] servare pudoris.              **480**
 
 [^2]: *Phrygiae, Phrygiis, Phrygum* : all of these mean Trojan, referring to the region of [Phrygia](https://en.wikipedia.org/wiki/Phrygia) near Troy
 
-[^3]: *Bistoniis* : the [Bistones](https://en.wikipedia.org/wiki/Bistones), people living in [Thrace](https://en.wikipedia.org/wiki/Thrace), though here probably just standing for Thrace in general
+[^3]: *contraria tellus* : *tellus, telluris* is feminine, though it does not look like it!
 
-[^4]: *Polymestoris* : [Polymestor](https://en.wikipedia.org/wiki/Polymestor), the mythological king of Thrace
+[^4]: *Bistoniis* : the [Bistones](https://en.wikipedia.org/wiki/Bistones), people living in [Thrace](https://en.wikipedia.org/wiki/Thrace), though here probably just standing for Thrace in general
 
-[^5]: *alendum* : probably a **supine of purpose**, *in order to raise/nourish (him)*, or just an **FPP** describing *te*, Polydorus
+[^5]: *Polymestoris* : [Polymestor](https://en.wikipedia.org/wiki/Polymestor), the mythological king of Thrace
 
-[^6]: *Polydore* : [Polydorus](https://en.wikipedia.org/wiki/Polydorus_of_Troy) is the youngest son of Priam and Hecuba, sent away to keep him safe from the fighting at Troy. This use of the **vocative** is meant to stir up emotion in the audience by directly addressing him
+[^6]: *alendum* : probably a **supine of purpose**, *in order to raise/nourish (him)*, or just an **FPP** describing *te*, Polydorus
 
-[^7]: *consilium sapiens* : *a wise plan!*, added in by Ovid as an editorial comment
+[^7]: *Polydore* : [Polydorus](https://en.wikipedia.org/wiki/Polydorus_of_Troy) is the youngest son of Priam and Hecuba, sent away to keep him safe from the fighting at Troy. This use of the **vocative** is meant to stir up emotion in the audience by directly addressing him
 
-[^8]: *sceleris praemia magnas opes* : *magnas opes* is in **apposition** to *sceleris praemia*, "if he had not thrown in great wealth (which were) rewards for the crime"
+[^8]: *consilium sapiens* : *a wise plan!*, added in by Ovid as an editorial comment
 
-[^9]: *animi inritamen avari* : in **apposition** the *magnas opes* as well
+[^9]: *sceleris praemia magnas opes* : *magnas opes* is in **apposition** to *sceleris praemia*, "if he had not thrown in great wealth (which were) rewards for the crime"
 
+[^10]: *animi inritamen avari* : in **apposition** the *magnas opes* as well
 
-[^10]: *ut cecidit* : remember that *ut* + an **indicative verb** is just *as*
+[^11]: *ut cecidit* : remember that *ut* + an **indicative verb** is just *as*
 
-[^11]: *rex Thracum* : [Thrace](https://en.wikipedia.org/wiki/Thrace) is the region roughly between Greece and Troy 
+[^12]: *rex Thracum* : [Thrace](https://en.wikipedia.org/wiki/Thrace) is the region roughly between Greece and Troy 
 
-[^12]: *iuguloque* : **compound verbs**, like *demisit* often take a **dative of reference**, "he sent it down *on his throat*"
+[^13]: *iuguloque* : **compound verbs**, like *demisit* often take a **dative of reference**, "he sent it down *on his throat*"
 
-[^13]: *sui alumni* : "ward/charge" works the best here, since Polymestor was supposed to watch over Polydorus and raise him
+[^14]: *sui alumni* : "ward/charge" works the best here, since Polymestor was supposed to watch over Polydorus and raise him
 
-[^14]: *tamquam* : *as if*, note *possent* as a **subjunctive verb**, showing us that this action did not/could not happen
+[^15]: *tamquam* : *as if*, note *possent* as a **subjunctive verb**, showing us that this action did not/could not happen
 
-[^15]: *exanimem* : as we've seen a few times, this adjective describes someone who is not mentioned, namely Polydorus. We know it's accusative, so take this as your direct object, adding in a "him being...."
+[^16]: *exanimem* : as we've seen a few times, this adjective describes someone who is not mentioned, namely Polydorus. We know it's accusative, so take this as your direct object, adding in a "him being...."
 
-[^16]: *Atrides* : the son of [Atreus](https://en.wikipedia.org/wiki/Atreus), here meaning [Agamemnon](https://en.wikipedia.org/wiki/Agamemnon). It can also be used for his brother [Menelaus](https://en.wikipedia.org/wiki/Menelaus), or for both of them in the plural
+[^17]: *Atrides* : the son of [Atreus](https://en.wikipedia.org/wiki/Atreus), here meaning [Agamemnon](https://en.wikipedia.org/wiki/Agamemnon). It can also be used for his brother [Menelaus](https://en.wikipedia.org/wiki/Menelaus), or for both of them in the plural
 
-[^17]: *dum....dum...esset* : *dum* + a **subjunctive verb** can be "until"
+[^18]: *dum....dum...esset* : *dum* + a **subjunctive verb** can be "until"
 
-[^18]: *quantus esse solebat* : *as great as he used to be*
+[^19]: *quantus esse solebat* : *as great as he used to be*
 
-[^19]: *similisque minanti* : the verb *similis, -e* takes a **dative of reference**, "similar to one threatening"
+[^20]: *similisque minanti* : the verb *similis, -e* takes a **dative of reference**, "similar to one threatening"
 
-[^20]: *temporis illius....quo....* : "of that time when (*quo*)", with quo as **ablative of time**
+[^21]: *temporis illius....quo....* : "of that time when (*quo*)", with quo as **ablative of time**
 
-[^21]: *Achilles* : the ghost of Achilles, who died before the Greeks broken into the city with the Trojan Horse, appears to the Greeks as they attempt to sail home
+[^22]: *Achilles* : the ghost of Achilles, who died before the Greeks broken into the city with the Trojan Horse, appears to the Greeks as they attempt to sail home
 
-[^22]: *Agamemnona* : **Greek accusative**
+[^23]: *Agamemnona* : **Greek accusative**
 
-[^23]: *ferro* : *ferrum, -i (n)* can mean "sword," extending out from its meaning of "iron," the material used to make a sword
+[^24]: *ferro* : *ferrum, -i (n)* can mean "sword," extending out from its meaning of "iron," the material used to make a sword
 
-[^24]: *'inmemores' que 'mei* : first, the -*que* is unattached just because of the quote marks. Second, words of remembering and forgetting take an **objective genitive**, which is *mei* here. "You forgetful of me...."
+[^25]: *'inmemores' que 'mei* : first, the -*que* is unattached just because of the quote marks. Second, words of remembering and forgetting take an **objective genitive**, which is *mei* here. "You forgetful of me...."
 
-[^25]: *Achivi* : the Greeks
+[^26]: *Achivi* : the Greeks
 
-[^26]: *virtutis gratia nostrae* : *the thanks for our (my) bravery*, with *virtutis nostrae* as an **objective genitive**
+[^27]: *virtutis gratia nostrae* : *the thanks for our (my) bravery*, with *virtutis nostrae* as an **objective genitive**
 
-[^27]: *utque sit...* : *sit* is **subjunctive** of *sum, esse*
+[^28]: *utque sit...* : *sit* is **subjunctive** of *sum, esse*
 
-[^28]: *Achilleos manes* : an adjective form of Achilles' name. **Manes** are underworld spirits, translate this phrase as "Achilles' shade/ghost"
+[^29]: *Achilleos manes* : an adjective form of Achilles' name. **Manes** are underworld spirits, translate this phrase as "Achilles' shade/ghost"
 
-[^29]: *Polyxena* : [Polyxena](https://en.wikipedia.org/wiki/Polyxena) is the youngest daughter of Priam and Hecuba. She is seen as a foil (parallel character) of [Iphigenia](https://en.wikipedia.org/wiki/Iphigenia), the daughter of Agamemnon
+[^30]: *Polyxena* : [Polyxena](https://en.wikipedia.org/wiki/Polyxena) is the youngest daughter of Priam and Hecuba. She is seen as a foil (parallel character) of [Iphigenia](https://en.wikipedia.org/wiki/Iphigenia), the daughter of Agamemnon
  who the Greeks sacrifice to appease Artemis and gain favorable winds before they sail to Troy at the start of the war
 
-[^30]: *inmiti sociis parentibus umbrae* : *parentibus* is from *pareo, parere*, meaning "to obey," NOT *parens, parentis* meaning "parent." *Pareo, -ere* takes a dative, which is *inmiti umbrae*. Take this as an **ablative absolute**
+[^31]: *inmiti sociis parentibus umbrae* : *parentibus* is from *pareo, parere*, meaning "to obey," NOT *parens, parentis* meaning "parent." *Pareo, -ere* takes a dative, which is *inmiti umbrae*. Take this as an **ablative absolute**
 
-[^31]: *prope sola* : *nearly alone*, as Polyxena is among the last children left to Hecuba
+[^32]: *prope sola* : *nearly alone*, as Polyxena is among the last children left to Hecuba
 
-[^32]: *plus quam femina* : *more than a woman*, presumably referring to *fortis*
+[^33]: *plus quam femina* : *more than a woman*, presumably referring to *fortis*
 
-[^33]: *fit* : *she becomes, she is made*. The verb *fio, fieri* acts like the passive of *facio, facere*
+[^34]: *fit* : *she becomes, she is made*. The verb *fio, fieri* acts like the passive of *facio, facere*
 
-[^34]: *quae memor ipsa sui* : see note X, *she mindful of herself*. 
+[^35]: *quae memor ipsa sui* : see note X, *she mindful of herself*. 
 
-[^35]: *fera sacra* : neuter, accusative, plural. Translate as *the savage rites*
+[^36]: *fera sacra* : neuter, accusative, plural. Translate as *the savage rites*
 
-[^36]: *utque...vidit* : remember that *ut* + an **indicative verb** is "as"
+[^37]: *utque...vidit* : remember that *ut* + an **indicative verb** is "as"
 
-[^37]: *lumina* : *lumen, -inis* (n) can also be "eyes," as it is here
+[^38]: *lumina* : *lumen, -inis* (n) can also be "eyes," as it is here
 
-[^38]: *tenebat, tenet* : *teneo, tenere* can also be "to hold back," as it is here
+[^39]: *tenebat, tenet* : *teneo, tenere* can also be "to hold back," as it is here
 
-[^39]: *praecordia* : translate as "chest," as *praecordia* means something in front of (*prae*) your heart (*cor*)
+[^40]: *praecordia* : translate as "chest," as *praecordia* means something in front of (*prae*) your heart (*cor*)
 
-[^40]: *defecto poplite* : *with her knees being weak*
+[^41]: *defecto poplite* : *with her knees being weak*
 
-[^41]: *pertulit* : *she endured*
+[^42]: *pertulit* : *she endured*
 
-[^42]: *vultus* : **4th declension**
+[^43]: *vultus* : **4th declension**
 
-[^43]: *cura fuit* : "there was a care..."
+[^44]: *cura fuit* : "there was a care..."
 
-[^44]: *decus* : **3rd declension neuter**
+[^45]: *decus* : **3rd declension neuter**
 
