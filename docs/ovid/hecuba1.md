@@ -72,7 +72,7 @@ inferias[^31] inopes, crinem[^32] lacrimasque reliquit,
 
 
 
-[^1]: *Troia...Hellespontus* : [square brackets] mean that the modern editor of this text feels these lines are inauthentic or supurious, meaning that prehaps Ovid did not write them and they should be taken out. Note, he is not confident enough to actually take them out, but leaves them in with this marking. <pointy brackets> indicate that a word or phrase should be added into a text
+[^1]: *Troia...Hellespontus* : [square brackets] mean that the modern editor of this text feels these lines are inauthentic or spurious, meaning that perhaps Ovid did not write them and they should be taken out. Note, he is not confident enough to actually take them out, but leaves them in with this marking. "<"pointy brackets ">" indicate that a word or phrase should be added into a text
 
 [^2]: *Priameia coniunx* : an adjective form of Priam's name. *Priam's spouse* is a good way to render it in English
 
@@ -98,7 +98,7 @@ inferias[^31] inopes, crinem[^32] lacrimasque reliquit,
 
 [^13]: *templa* : take this as the direct object of *tenentes*
 
-[^14]: *invidiosa praemia* : this is in **apposition** to the *Dardanidas matres*. *The Greek victors dragg the Trojan mothers off **as enviable prizes***
+[^14]: *invidiosa praemia* : this is in **apposition** to the *Dardanidas matres*. *The Greek victors drag the Trojan mothers off **as enviable prizes***
 
 [^15]: *Grai* : the Greeks, an alternate spelling of *Graeci*
 
@@ -122,11 +122,11 @@ inferias[^31] inopes, crinem[^32] lacrimasque reliquit,
 
 [^25]: *prensantem, dantem* : since you have no named direct object, but see that these participles are accusative, you can figure out that they describe Hecuba. Translate it as "her grasping....her giving...."
 
-[^26]: *Dulichiae manus* : *Dulichius* is an epithet that refers to Odysseus, named after an island near Ithaca. He is the warrior who is alloted Hecuba when the Trojan women are divided up as spoils
+[^26]: *Dulichiae manus* : *Dulichius* is an epithet that refers to Odysseus, named after an island near Ithaca. He is the warrior who is allotted Hecuba when the Trojan women are divided up as spoils
 
 [^27]: *unius* : connect this to *Hectoris* later on. *of Hector alone* or *only of Hector*
 
-[^28]: *haustos* : same thing as note X above. We need a direct object of *tulit*, and what else could *haustos* refer to except the previously mentioned *cineres*? So try "she brought them *having been drained* with her."
+[^28]: *haustos* : same thing as note 25 above. We need a direct object of *tulit*, and what else could *haustos* refer to except the previously mentioned *cineres*? So try "she brought them *having been drained* with her."
 
 [^29]: *canum* : *white*, from *canus, -a, -um*
 
