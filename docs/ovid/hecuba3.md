@@ -258,7 +258,7 @@ eventus Hecaben meruisse negaverit illos.              **575**
 
 [^58]: *ululavit maestra* : You can translate *maestra* as a nominative subject, *the sad one*, or can translate it more as an adverb, *sadly, mournfully*. The verb *ululo, ululare* is often associated with ritual grief in the ancient world, very fitting for the end of Hecuba's life after having lost so many children
 
-[^59]: *illius.... illius* : both refer to Hecuba, and are connnected to the subject, *fortuna*. The use of **anaphora** in these last few lines serves to stress the impact that Hecuba's plight had on others
+[^59]: *illius.... illius* : both refer to Hecuba, and are connected to the subject, *fortuna*. The use of **anaphora** in these last few lines serves to stress the impact that Hecuba's plight had on others
 
 [^60]: *Pelasgos* : an adjective meaning *Greek*
 
