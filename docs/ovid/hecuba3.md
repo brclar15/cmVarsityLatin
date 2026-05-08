@@ -103,7 +103,7 @@ in secreta venit: tum blando callidus ore              **555**
 
 omne fore[^42] illius, quod[^43] das, quod[^43] et ante dedisti,
 
-per superos iuro.' spectat truculenta[^144] loquentem
+per superos iuro.' spectat truculenta[^44] loquentem
 
 falsaque iurantem tumidaque exaestuat ira
 
