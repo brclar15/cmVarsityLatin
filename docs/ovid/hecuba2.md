@@ -113,7 +113,7 @@ cum caderet, castique decus[^44] servare pudoris.              **480**
 
 [^7]: *consilium sapiens* : *a wise plan!*, added in by Ovid as an editorial comment
 
-[^8]: *sceleris praemia magnas opes* : *magnas opes* is in **apposition** to *sceleris praemia*, "if he had not thrown in greath wealth (which were) rewards for the crime"
+[^8]: *sceleris praemia magnas opes* : *magnas opes* is in **apposition** to *sceleris praemia*, "if he had not thrown in great wealth (which were) rewards for the crime"
 
 [^9]: *animi inritamen avari* : in **apposition** the *magnas opes* as well
 
@@ -130,7 +130,7 @@ cum caderet, castique decus[^44] servare pudoris.              **480**
 
 [^15]: *exanimem* : as we've seen a few times, this adjective describes someone who is not mentioned, namely Polydorus. We know it's accusative, so take this as your direct object, adding in a "him being...."
 
-[^16]: *Atrides* : the son of [Atreus](https://en.wikipedia.org/wiki/Atreus), here meaning [Agamomemnon](https://en.wikipedia.org/wiki/Agamemnon). It can also be used for his brother [Menelaus](https://en.wikipedia.org/wiki/Menelaus), or for both of them in the plural
+[^16]: *Atrides* : the son of [Atreus](https://en.wikipedia.org/wiki/Atreus), here meaning [Agamemnon](https://en.wikipedia.org/wiki/Agamemnon). It can also be used for his brother [Menelaus](https://en.wikipedia.org/wiki/Menelaus), or for both of them in the plural
 
 [^17]: *dum....dum...esset* : *dum* + a **subjunctive verb** can be "until"
 
@@ -156,7 +156,8 @@ cum caderet, castique decus[^44] servare pudoris.              **480**
 
 [^28]: *Achilleos manes* : an adjective form of Achilles' name. **Manes** are underworld spirits, translate this phrase as "Achilles' shade/ghost"
 
-[^29]: *Polyxena* : [Polyxena](https://en.wikipedia.org/wiki/Polyxena) is the youngest daughter of Priam and Hecuba. She is seen as a foil (parallel character) of [Iphigenia](https://en.wikipedia.org/wiki/Iphigenia), the daughter of Agamemmnon who the Greeks sacrifice to appease Artemis and gain favorable winds before they sail to Troy at the start of the war
+[^29]: *Polyxena* : [Polyxena](https://en.wikipedia.org/wiki/Polyxena) is the youngest daughter of Priam and Hecuba. She is seen as a foil (parallel character) of [Iphigenia](https://en.wikipedia.org/wiki/Iphigenia), the daughter of Agamemnon
+ who the Greeks sacrifice to appease Artemis and gain favorable winds before they sail to Troy at the start of the war
 
 [^30]: *inmiti sociis parentibus umbrae* : *parentibus* is from *pareo, parere*, meaning "to obey," NOT *parens, parentis* meaning "parent." *Pareo, -ere* takes a dative, which is *inmiti umbrae*. Take this as an **ablative absolute**
 
