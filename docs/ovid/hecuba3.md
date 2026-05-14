@@ -41,7 +41,7 @@ canitiemque[^22] suam concretam sanguine vellens
 
 plura[^23] quidem, sed et[^24] haec[^23] laniato pectore, dixit:
 
-## Speech of Hecuba - English
+## Hecuba's Lament - English
 
 - I would have **loved** to read this in Latin too, but, as we said before, *tempus fugit!*. So please read Hecuba's lament in English instead. Translation taken from [Poetry in Translation](https://www.poetryintranslation.com/PITBR/Latin/Metamorph13.php#anchor_Toc64105844)
 
