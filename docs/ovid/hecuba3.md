@@ -252,7 +252,7 @@ eventus Hecaben meruisse negaverit illos.              **575**
 
 [^55]: *rictuque in verba parato latravit* : this **ablative absolute** and the verb both show the moment of metamorphosis. The word *rictus, -us* (m) has a very animal connotation 
 
-[^56]: *locus exstat et ex nomen habet* : the Greeks and Romans love to explain how a place got its name. Ovid is telling his reader that the cite where this transformation happens still, to his present day, bears a name derived from this transformation. It is called [Cynossema](https://topostext.org/place/401264LKyn), which translates to "Dog's Tomb" 
+[^56]: *locus exstat et ex nomen habet* : the Greeks and Romans love to explain how a place got its name. Ovid is telling his reader that the site where this transformation happens still, to his present day, bears a name derived from this transformation. It is called [Cynossema](https://topostext.org/place/401264LKyn), which translates to "Dog's Tomb" 
 
 [^57]: *Sithonios* : another adjective meaning *Thracian*
 
