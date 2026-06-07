@@ -17,7 +17,7 @@ In scenes that we skipped,  Aeneas is visited by the ghost of Hector (ooooo, spo
 -----------------
 
 
-# _Aeneid_ 2.39 - 2.346
+# _Aeneid_ 2.339 - 2.346
 
 ## Introducing Corobeus
 
